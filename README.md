@@ -1,1 +1,1 @@
-"# CustomTestAdapter" 
+# CustomTestAdapter
